@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushi Darak</h1>
-<h3 align="center">Full Stack Developer • AI/ML Enthusiast • Health Tech Builder</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=khushidarak&label=Profile%20views&color=0e75b6&style=flat" alt="khushidarak" />
@@ -16,9 +16,8 @@
 
 ### 🚀 About Me
 
-- 🎙️ Built **VoiceDiary AI** — tracks disease progression through vocal biomarkers
-- 🌱 Currently learning **LLM applications, scalable backend systems & system design**
-- 💡 Passionate about building AI tools that solve **real health problems**
+- 🌱 Currently learning **AIML**
+- 💡 Passionate about building AI tools
 - 📫 Reach me at **darakkhushi77@gmail.com**
 
 ---
